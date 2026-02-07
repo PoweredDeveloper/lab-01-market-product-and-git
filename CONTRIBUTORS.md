@@ -8,3 +8,4 @@ Use commit message: "docs: add <your-username> to contributors"
 -->
 - Mikis
 - Write below
+- Add your name here
