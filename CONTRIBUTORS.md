@@ -8,3 +8,5 @@ Use commit message: "docs: add <your-username> to contributors"
 -->
 - Mikis
 - @PoweredDeveloper
+- PoweredDeveloper
+- @Mikis
